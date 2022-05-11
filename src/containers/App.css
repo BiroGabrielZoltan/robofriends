@@ -12,3 +12,7 @@ h1 {
   font-weight: 200;
   color: rgb(50, 200, 150);
 }
+
+.tc{
+  overflow: 'none';
+}
